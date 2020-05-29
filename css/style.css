@@ -1,0 +1,65 @@
+body{ 
+    background-color: #fcd1c6;
+}
+
+
+
+ul strong {
+    line-height: 0em;
+}
+
+#container{
+    margin:auto;
+    margin-top:50;
+    border-top: 80px solid #BAE5E5
+}
+
+table{
+   margin:auto;
+}
+    
+
+.imagen{
+   width: 500px;
+   height:auto;
+}
+
+.imagen:hover{
+    /*transform:rotate (30deg); */
+    transform: scale(1.2);
+}
+
+.cara{
+ width: 300px;
+ float:left;
+} 
+
+.textosobremi{
+ font-size:26;
+}
+ 
+
+
+.colorbonit{
+    background-color:#FFA6A4;
+}
+
+{
+} 
+
+
+p{
+    font-size:24px ;
+
+}
+
+@font-face { 
+font-family:"home";
+src:url(../fuentes/Home.ttf.ttf/);
+} 
+
+
+#fuente{ 
+    font-family:"home";
+    font-size: 70px;
+}
